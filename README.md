@@ -1,15 +1,9 @@
-# nestjs-task-management-app
+# Nest.js Task Management App
 
-An example task management NestJS app.
+An example Nest.js Application.
 
-## Setup 
+## Development
 
-*Note*: PostgresSQL Server 12 has an incompatibiltiy with TypeORM that has not been patched at this time. Use PostgresSQL Server 11.5. 
+## License
 
-## Run 
-
-```
-yarn start
-```
-
-
+[License](LICENSE)
