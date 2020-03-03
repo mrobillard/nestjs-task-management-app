@@ -1,8 +1,7 @@
 import axios from 'axios';
 
 export default class BaseHttpService {
-  BASE_URL =
-    'http://nestjs-task-management-mrobi.us-east-2.elasticbeanstalk.com';
+  BASE_URL = 'http://localhost';
   _accessToken = null;
 
   constructor(routerStore) {
